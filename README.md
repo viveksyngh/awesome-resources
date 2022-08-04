@@ -18,3 +18,9 @@ Lists of awesome talks and blogs from different software engineering topics
 
    ### Blogs
    1. [Introduction to modern network load balancing and proxying](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236)
+
+## Service Mesh
+
+  ### Blogs
+ 1. [Learn Istio – How to Manage, Monitor, and Secure Microservices](https://www.freecodecamp.org/news/learn-istio-manage-microservices)
+ 2. 
