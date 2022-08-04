@@ -13,3 +13,8 @@ Lists of awesome talks and blogs from different software engineering topics
   
   ### Blogs 
   1. [Dropbox Traffic Infrastructre: Edge Network](https://dropbox.tech/infrastructure/dropbox-traffic-infrastructure-edge-network)
+
+## Networking 
+
+   ### Blogs
+   1. [Introduction to modern network load balancing and proxying](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236)
