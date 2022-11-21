@@ -13,6 +13,7 @@ Lists of awesome talks and blogs from different software engineering topics
   
   ### Blogs 
   1. [Dropbox Traffic Infrastructre: Edge Network](https://dropbox.tech/infrastructure/dropbox-traffic-infrastructure-edge-network)
+  2. [Latency Numbers Everyone Should Know](https://static.googleusercontent.com/media/sre.google/en//static/pdf/rule-of-thumb-latency-numbers-a4.pdf)
 
 ## Networking 
 
@@ -23,4 +24,8 @@ Lists of awesome talks and blogs from different software engineering topics
 
   ### Blogs
  1. [Learn Istio – How to Manage, Monitor, and Secure Microservices](https://www.freecodecamp.org/news/learn-istio-manage-microservices)
- 2. 
+ 
+ 
+## Security
+
+ ### 1. [Keyless SSL ](https://www.cloudflare.com/en-gb/learning/ssl/keyless-ssl/)
